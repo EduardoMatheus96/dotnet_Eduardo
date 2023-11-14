@@ -1,0 +1,15 @@
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_string/bin/Debug/net7.0/exemploaula02_string
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_string/bin/Debug/net7.0/exemploaula02_string.deps.json
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_string/bin/Debug/net7.0/exemploaula02_string.runtimeconfig.json
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_string/bin/Debug/net7.0/exemploaula02_string.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_string/bin/Debug/net7.0/exemploaula02_string.pdb
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_string/obj/Debug/net7.0/exemploaula02_string.csproj.AssemblyReference.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_string/obj/Debug/net7.0/exemploaula02_string.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_string/obj/Debug/net7.0/exemploaula02_string.AssemblyInfoInputs.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_string/obj/Debug/net7.0/exemploaula02_string.AssemblyInfo.cs
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_string/obj/Debug/net7.0/exemploaula02_string.csproj.CoreCompileInputs.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_string/obj/Debug/net7.0/exemploaula02_string.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_string/obj/Debug/net7.0/refint/exemploaula02_string.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_string/obj/Debug/net7.0/exemploaula02_string.pdb
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_string/obj/Debug/net7.0/exemploaula02_string.genruntimeconfig.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_string/obj/Debug/net7.0/ref/exemploaula02_string.dll

@@ -1,0 +1,15 @@
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_foreach/obj/Debug/net7.0/exemploaula02_foreach.csproj.AssemblyReference.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_foreach/obj/Debug/net7.0/exemploaula02_foreach.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_foreach/obj/Debug/net7.0/exemploaula02_foreach.AssemblyInfoInputs.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_foreach/obj/Debug/net7.0/exemploaula02_foreach.AssemblyInfo.cs
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_foreach/obj/Debug/net7.0/exemploaula02_foreach.csproj.CoreCompileInputs.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_foreach/bin/Debug/net7.0/exemploaula02_foreach
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_foreach/bin/Debug/net7.0/exemploaula02_foreach.deps.json
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_foreach/bin/Debug/net7.0/exemploaula02_foreach.runtimeconfig.json
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_foreach/bin/Debug/net7.0/exemploaula02_foreach.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_foreach/bin/Debug/net7.0/exemploaula02_foreach.pdb
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_foreach/obj/Debug/net7.0/exemploaula02_foreach.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_foreach/obj/Debug/net7.0/refint/exemploaula02_foreach.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_foreach/obj/Debug/net7.0/exemploaula02_foreach.pdb
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_foreach/obj/Debug/net7.0/exemploaula02_foreach.genruntimeconfig.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_foreach/obj/Debug/net7.0/ref/exemploaula02_foreach.dll
