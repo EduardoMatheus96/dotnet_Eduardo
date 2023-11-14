@@ -1,0 +1,15 @@
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/lista_exercicio_date/bin/Debug/net7.0/lista_exercicio_date
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/lista_exercicio_date/bin/Debug/net7.0/lista_exercicio_date.deps.json
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/lista_exercicio_date/bin/Debug/net7.0/lista_exercicio_date.runtimeconfig.json
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/lista_exercicio_date/bin/Debug/net7.0/lista_exercicio_date.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/lista_exercicio_date/bin/Debug/net7.0/lista_exercicio_date.pdb
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/lista_exercicio_date/obj/Debug/net7.0/lista_exercicio_date.csproj.AssemblyReference.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/lista_exercicio_date/obj/Debug/net7.0/lista_exercicio_date.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/lista_exercicio_date/obj/Debug/net7.0/lista_exercicio_date.AssemblyInfoInputs.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/lista_exercicio_date/obj/Debug/net7.0/lista_exercicio_date.AssemblyInfo.cs
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/lista_exercicio_date/obj/Debug/net7.0/lista_exercicio_date.csproj.CoreCompileInputs.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/lista_exercicio_date/obj/Debug/net7.0/lista_exercicio_date.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/lista_exercicio_date/obj/Debug/net7.0/refint/lista_exercicio_date.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/lista_exercicio_date/obj/Debug/net7.0/lista_exercicio_date.pdb
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/lista_exercicio_date/obj/Debug/net7.0/lista_exercicio_date.genruntimeconfig.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/lista_exercicio_date/obj/Debug/net7.0/ref/lista_exercicio_date.dll

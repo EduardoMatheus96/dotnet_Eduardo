@@ -1,0 +1,15 @@
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_List/bin/Debug/net7.0/exemploaula02_List
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_List/bin/Debug/net7.0/exemploaula02_List.deps.json
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_List/bin/Debug/net7.0/exemploaula02_List.runtimeconfig.json
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_List/bin/Debug/net7.0/exemploaula02_List.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_List/bin/Debug/net7.0/exemploaula02_List.pdb
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_List/obj/Debug/net7.0/exemploaula02_List.csproj.AssemblyReference.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_List/obj/Debug/net7.0/exemploaula02_List.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_List/obj/Debug/net7.0/exemploaula02_List.AssemblyInfoInputs.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_List/obj/Debug/net7.0/exemploaula02_List.AssemblyInfo.cs
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_List/obj/Debug/net7.0/exemploaula02_List.csproj.CoreCompileInputs.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_List/obj/Debug/net7.0/exemploaula02_List.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_List/obj/Debug/net7.0/refint/exemploaula02_List.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_List/obj/Debug/net7.0/exemploaula02_List.pdb
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_List/obj/Debug/net7.0/exemploaula02_List.genruntimeconfig.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana02/exemploaula02_List/obj/Debug/net7.0/ref/exemploaula02_List.dll
