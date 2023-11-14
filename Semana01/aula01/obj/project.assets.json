@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/eduardo-matheus-souto/Eduardo/dotnet_Eduardo/Semana01/aula01/aula01.csproj",
+      "projectUniqueName": "/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana01/aula01/aula01.csproj",
       "projectName": "aula01",
-      "projectPath": "/home/eduardo-matheus-souto/Eduardo/dotnet_Eduardo/Semana01/aula01/aula01.csproj",
+      "projectPath": "/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana01/aula01/aula01.csproj",
       "packagesPath": "/home/eduardo-matheus-souto/.nuget/packages/",
-      "outputPath": "/home/eduardo-matheus-souto/Eduardo/dotnet_Eduardo/Semana01/aula01/obj/",
+      "outputPath": "/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana01/aula01/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/eduardo-matheus-souto/.nuget/NuGet/NuGet.Config"
