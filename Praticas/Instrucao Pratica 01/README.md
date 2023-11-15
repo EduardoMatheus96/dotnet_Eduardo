@@ -61,3 +61,17 @@ Comparison operators are used to compare the relationship between two values. Th
 - `>=` (Greater Than or Equal): Returns true if the left operand is greater than or equal to the right operand.
 
 These are the main concepts covered in this practical DotNet activity. Make sure to practice and experiment with these topics to deepen your understanding. Good luck!
+
+
+## OBS
+
+<!-- Question Number One -->
+Para garantir que o .NET SDK está corretamente instalado em seu sistema, siga as instruções abaixo:
+
+### Verificar a Versão do .NET SDK Instalado:
+
+#### Windows:
+```bash
+dotnet --version
+
+
