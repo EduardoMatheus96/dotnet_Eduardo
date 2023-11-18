@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/eduardo-matheus-souto/Eduardo/dotnet_Eduardo/Semana01/aula01/aula01.csproj": {}
+    "/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Semana01/aula01/aula01.csproj": {}
   },
   "projects": {
-    "/home/eduardo-matheus-souto/Eduardo/dotnet_Eduardo/Semana01/aula01/aula01.csproj": {
+    "/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Semana01/aula01/aula01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/eduardo-matheus-souto/Eduardo/dotnet_Eduardo/Semana01/aula01/aula01.csproj",
+        "projectUniqueName": "/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Semana01/aula01/aula01.csproj",
         "projectName": "aula01",
-        "projectPath": "/home/eduardo-matheus-souto/Eduardo/dotnet_Eduardo/Semana01/aula01/aula01.csproj",
-        "packagesPath": "/home/eduardo-matheus-souto/.nuget/packages/",
-        "outputPath": "/home/eduardo-matheus-souto/Eduardo/dotnet_Eduardo/Semana01/aula01/obj/",
+        "projectPath": "/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Semana01/aula01/aula01.csproj",
+        "packagesPath": "/home/eduardo/.nuget/packages/",
+        "outputPath": "/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Semana01/aula01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/eduardo-matheus-souto/.nuget/NuGet/NuGet.Config"
+          "/home/eduardo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
         }
       }
     }
