@@ -1,0 +1,15 @@
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/linq/obj/Debug/net7.0/linq.csproj.AssemblyReference.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/linq/obj/Debug/net7.0/linq.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/linq/obj/Debug/net7.0/linq.AssemblyInfoInputs.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/linq/obj/Debug/net7.0/linq.AssemblyInfo.cs
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/linq/obj/Debug/net7.0/linq.csproj.CoreCompileInputs.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/linq/bin/Debug/net7.0/linq
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/linq/bin/Debug/net7.0/linq.deps.json
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/linq/bin/Debug/net7.0/linq.runtimeconfig.json
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/linq/bin/Debug/net7.0/linq.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/linq/bin/Debug/net7.0/linq.pdb
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/linq/obj/Debug/net7.0/linq.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/linq/obj/Debug/net7.0/refint/linq.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/linq/obj/Debug/net7.0/linq.pdb
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/linq/obj/Debug/net7.0/linq.genruntimeconfig.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/linq/obj/Debug/net7.0/ref/linq.dll
