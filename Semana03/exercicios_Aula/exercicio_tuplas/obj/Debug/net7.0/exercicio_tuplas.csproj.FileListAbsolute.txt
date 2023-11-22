@@ -1,0 +1,15 @@
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/exercicios_Aula/exercicio_tuplas/obj/Debug/net7.0/exercicio_tuplas.csproj.AssemblyReference.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/exercicios_Aula/exercicio_tuplas/obj/Debug/net7.0/exercicio_tuplas.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/exercicios_Aula/exercicio_tuplas/obj/Debug/net7.0/exercicio_tuplas.AssemblyInfoInputs.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/exercicios_Aula/exercicio_tuplas/obj/Debug/net7.0/exercicio_tuplas.AssemblyInfo.cs
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/exercicios_Aula/exercicio_tuplas/obj/Debug/net7.0/exercicio_tuplas.csproj.CoreCompileInputs.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/exercicios_Aula/exercicio_tuplas/bin/Debug/net7.0/exercicio_tuplas
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/exercicios_Aula/exercicio_tuplas/bin/Debug/net7.0/exercicio_tuplas.deps.json
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/exercicios_Aula/exercicio_tuplas/bin/Debug/net7.0/exercicio_tuplas.runtimeconfig.json
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/exercicios_Aula/exercicio_tuplas/bin/Debug/net7.0/exercicio_tuplas.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/exercicios_Aula/exercicio_tuplas/bin/Debug/net7.0/exercicio_tuplas.pdb
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/exercicios_Aula/exercicio_tuplas/obj/Debug/net7.0/exercicio_tuplas.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/exercicios_Aula/exercicio_tuplas/obj/Debug/net7.0/refint/exercicio_tuplas.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/exercicios_Aula/exercicio_tuplas/obj/Debug/net7.0/exercicio_tuplas.pdb
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/exercicios_Aula/exercicio_tuplas/obj/Debug/net7.0/exercicio_tuplas.genruntimeconfig.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/exercicios_Aula/exercicio_tuplas/obj/Debug/net7.0/ref/exercicio_tuplas.dll
