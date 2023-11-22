@@ -4,8 +4,8 @@ using System.Globalization;
 CultureInfo.CurrentCulture = CultureInfo.CreateSpecificCulture("pt-BR");
 
 #endregion
-/*
-#region Tuples Examples
+
+/* #region Tuples Examples
 var tuple1 = (10, 20);
 Console.WriteLine($"Tuple 1: {tuple1.Item1}, {tuple1.Item2}");
 //Tuple 1: 10, 20
@@ -55,7 +55,7 @@ Console.WriteLine($"People with name started with '{letter}': {string.Join(", ",
 
 #endregion */
 
-#region Linq Examples
+/* #region Linq Examples
 
 List<int> list = new() { 1, 2, 3, 4, 5 };
 var squaredList = list.Select(x => x * x);
@@ -94,12 +94,11 @@ Console.WriteLine($"Legal age people: {string.Join(", ", legalAge)}");
 
 
 Console.Read();
-#endregion
+#endregion */
 
 /* #region Question 1
 
-Console.WriteLine($"{GetPerson("Helder", new DateTime(1987, 9, 24))}");
-
+Console.WriteLine($"{GetPerson("Helder", new DateTime(1987, 9, 24))}")!;
 
 (string,int) GetPerson(string name, DateTime BirthDate){
    var yearsOld = DateTime.Today.Year - BirthDate.Year;
@@ -117,11 +116,11 @@ Console.WriteLine($"2*2+3*3 = {sumSquares(2,3)}");
 
 #endregion */
 
-/* #region Exceptions Examples
+#region Exceptions Examples
 
 try{
    // Code that may throw an exception
-   int result = Divide(10, 11);
+   int result = Divide(10, 0);
    Console.WriteLine($"Result: {result}");
 }
 catch (DivideByZeroException ex){
@@ -148,7 +147,7 @@ int Divide(int a, int b){
    return a / b;
 }
 
-#endregion */ 
+#endregion  
  
  public class Student{
    public Student(int id, string fullName, string document, DateTime birthDate, List<string> phoneNumbers)
