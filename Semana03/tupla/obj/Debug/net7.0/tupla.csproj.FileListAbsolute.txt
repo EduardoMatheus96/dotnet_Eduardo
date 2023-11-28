@@ -1,0 +1,15 @@
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/tupla/obj/Debug/net7.0/tupla.csproj.AssemblyReference.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/tupla/obj/Debug/net7.0/tupla.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/tupla/obj/Debug/net7.0/tupla.AssemblyInfoInputs.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/tupla/obj/Debug/net7.0/tupla.AssemblyInfo.cs
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/tupla/obj/Debug/net7.0/tupla.csproj.CoreCompileInputs.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/tupla/bin/Debug/net7.0/tupla
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/tupla/bin/Debug/net7.0/tupla.deps.json
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/tupla/bin/Debug/net7.0/tupla.runtimeconfig.json
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/tupla/bin/Debug/net7.0/tupla.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/tupla/bin/Debug/net7.0/tupla.pdb
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/tupla/obj/Debug/net7.0/tupla.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/tupla/obj/Debug/net7.0/refint/tupla.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/tupla/obj/Debug/net7.0/tupla.pdb
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/tupla/obj/Debug/net7.0/tupla.genruntimeconfig.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/tupla/obj/Debug/net7.0/ref/tupla.dll

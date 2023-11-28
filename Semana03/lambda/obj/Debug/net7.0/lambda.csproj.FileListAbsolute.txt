@@ -1,0 +1,15 @@
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/lambda/obj/Debug/net7.0/lambda.csproj.AssemblyReference.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/lambda/obj/Debug/net7.0/lambda.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/lambda/obj/Debug/net7.0/lambda.AssemblyInfoInputs.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/lambda/obj/Debug/net7.0/lambda.AssemblyInfo.cs
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/lambda/obj/Debug/net7.0/lambda.csproj.CoreCompileInputs.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/lambda/bin/Debug/net7.0/lambda
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/lambda/bin/Debug/net7.0/lambda.deps.json
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/lambda/bin/Debug/net7.0/lambda.runtimeconfig.json
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/lambda/bin/Debug/net7.0/lambda.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/lambda/bin/Debug/net7.0/lambda.pdb
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/lambda/obj/Debug/net7.0/lambda.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/lambda/obj/Debug/net7.0/refint/lambda.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/lambda/obj/Debug/net7.0/lambda.pdb
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/lambda/obj/Debug/net7.0/lambda.genruntimeconfig.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/dotnet_Eduardo/Semana03/lambda/obj/Debug/net7.0/ref/lambda.dll
