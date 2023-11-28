@@ -1,0 +1,15 @@
+/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Praticas/Instrucao Pratica 03/obj/Debug/net7.0/Instrucao Pratica 03.csproj.AssemblyReference.cache
+/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Praticas/Instrucao Pratica 03/obj/Debug/net7.0/Instrucao Pratica 03.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Praticas/Instrucao Pratica 03/obj/Debug/net7.0/Instrucao Pratica 03.AssemblyInfoInputs.cache
+/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Praticas/Instrucao Pratica 03/obj/Debug/net7.0/Instrucao Pratica 03.AssemblyInfo.cs
+/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Praticas/Instrucao Pratica 03/obj/Debug/net7.0/Instrucao Pratica 03.csproj.CoreCompileInputs.cache
+/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Praticas/Instrucao Pratica 03/bin/Debug/net7.0/Instrucao Pratica 03
+/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Praticas/Instrucao Pratica 03/bin/Debug/net7.0/Instrucao Pratica 03.deps.json
+/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Praticas/Instrucao Pratica 03/bin/Debug/net7.0/Instrucao Pratica 03.runtimeconfig.json
+/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Praticas/Instrucao Pratica 03/bin/Debug/net7.0/Instrucao Pratica 03.dll
+/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Praticas/Instrucao Pratica 03/bin/Debug/net7.0/Instrucao Pratica 03.pdb
+/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Praticas/Instrucao Pratica 03/obj/Debug/net7.0/Instrucao Pratica 03.dll
+/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Praticas/Instrucao Pratica 03/obj/Debug/net7.0/refint/Instrucao Pratica 03.dll
+/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Praticas/Instrucao Pratica 03/obj/Debug/net7.0/Instrucao Pratica 03.pdb
+/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Praticas/Instrucao Pratica 03/obj/Debug/net7.0/Instrucao Pratica 03.genruntimeconfig.cache
+/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Praticas/Instrucao Pratica 03/obj/Debug/net7.0/ref/Instrucao Pratica 03.dll
