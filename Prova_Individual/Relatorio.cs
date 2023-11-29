@@ -79,20 +79,59 @@ public class Relatorio
         }
     }
 
-    public void MostrarPacientesPorSintoma(string textoSintoma)
+
+    // public void MostrarPacientesPorSintoma(string textoSintoma)
+    // {
+    //     // Filtra os pacientes cujos sintomas contêm o texto informado
+    //     var pacientesFiltrados = pacientes
+    //         .Where(paciente => paciente.Sintomas.Any(sintoma => sintoma.Contains(textoSintoma, StringComparison.OrdinalIgnoreCase)))
+    //         .ToList();
+
+    //     // Exibe os pacientes filtrados
+    //     Console.WriteLine($"Pacientes com sintomas contendo '{textoSintoma}':");
+    //     foreach (var paciente in pacientesFiltrados)
+    //     {
+    //         Console.WriteLine($"Nome: {paciente.Nome}, Idade: {CalcularIdade(paciente.DataDeNascimento)} anos, CPF: {paciente.Cpf}, Gênero: {paciente.Sexo}, Sintomas: {string.Join(", ", paciente.Sintomas)}");
+    //     }
+    // }
+
+    public void MostrarAniversariantesDoMes(int mesAlvo)
     {
-        // Filtra os pacientes cujos sintomas contêm o texto informado
-        var pacientesFiltrados = pacientes
-            .Where(paciente => paciente.Sintomas.Any(sintoma => sintoma.Contains(textoSintoma, StringComparison.OrdinalIgnoreCase)))
+        // Obtém o mês atual
+        int mesAtual = DateTime.Now.Month;
+
+        // Filtra médicos cujo aniversário é no mês informado
+        var medicosAniversariantes = medicos
+            .Where(medico => ObterMesAniversario(medico.DataDeNascimento) == mesAlvo)
             .ToList();
 
-        // Exibe os pacientes filtrados
-        Console.WriteLine($"Pacientes com sintomas contendo '{textoSintoma}':");
-        foreach (var paciente in pacientesFiltrados)
+        // Filtra pacientes cujo aniversário é no mês informado
+        var pacientesAniversariantes = pacientes
+            .Where(paciente => ObterMesAniversario(paciente.DataDeNascimento) == mesAlvo)
+            .ToList();
+
+        // Exibe os médicos aniversariantes
+        Console.WriteLine($"Médicos aniversariantes do mês {mesAlvo}:");
+        foreach (var medico in medicosAniversariantes)
         {
-            Console.WriteLine($"Nome: {paciente.Nome}, Idade: {CalcularIdade(paciente.DataDeNascimento)} anos, CPF: {paciente.Cpf}, Gênero: {paciente.Sexo}, Sintomas: {string.Join(", ", paciente.Sintomas)}");
+            Console.WriteLine($"Nome: {medico.Nome}, Aniversário: {medico.DataDeNascimento}");
+        }
+
+        // Exibe os pacientes aniversariantes
+        Console.WriteLine($"Pacientes aniversariantes do mês {mesAlvo}:");
+        foreach (var paciente in pacientesAniversariantes)
+        {
+            Console.WriteLine($"Nome: {paciente.Nome}, Aniversário: {paciente.DataDeNascimento}");
         }
     }
+
+    private int ObterMesAniversario(string dataNascimento)
+    {
+        DateTime data = DateTime.Parse(dataNascimento);
+        return data.Month;
+    }
+
+
     private int CalcularIdade(string anoNascimento)
     {
         int anoAtual = DateTime.Now.Year;
