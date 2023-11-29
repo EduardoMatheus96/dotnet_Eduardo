@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/eduardo/.nuget/packages/": {}
+    "/home/eduardo-matheus-souto/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Semana01/aula01/aula01.csproj",
+      "projectUniqueName": "/home/eduardo-matheus-souto/Documentos/Eduardo/residenciatic18_DotNet/Semana01/aula01/aula01.csproj",
       "projectName": "aula01",
-      "projectPath": "/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Semana01/aula01/aula01.csproj",
-      "packagesPath": "/home/eduardo/.nuget/packages/",
-      "outputPath": "/home/eduardo/Área de Trabalho/workspace/residenciatic18_DotNet/Semana01/aula01/obj/",
+      "projectPath": "/home/eduardo-matheus-souto/Documentos/Eduardo/residenciatic18_DotNet/Semana01/aula01/aula01.csproj",
+      "packagesPath": "/home/eduardo-matheus-souto/.nuget/packages/",
+      "outputPath": "/home/eduardo-matheus-souto/Documentos/Eduardo/residenciatic18_DotNet/Semana01/aula01/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/eduardo/.nuget/NuGet/NuGet.Config"
+        "/home/eduardo-matheus-souto/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
