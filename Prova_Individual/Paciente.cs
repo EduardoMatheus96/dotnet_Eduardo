@@ -34,4 +34,12 @@ public class Paciente : Pessoa
         get { return sintomas; }
         set { this.sintomas = value; }
     }
+
+    public void adicionarPaciente(Paciente paciente, List<Paciente> pacientes){
+        if (medicos.Any(p => p.Cpf == paciente.Cpf))
+        {
+            throw new ArgumentException("Paciente invalido, CRM ou CPF Ja presente na lista de medicos !!!");
+        }
+        else medicos.Add(medico);
+    }
 }
