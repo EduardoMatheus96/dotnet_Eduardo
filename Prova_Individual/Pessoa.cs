@@ -1,8 +1,8 @@
 public class Pessoa
 {
-    string nome;
-    string dataDeNascimento;
-    string cpf;
+    protected string nome;
+    protected string dataDeNascimento;
+    protected string cpf;
 
     public string Nome
     {

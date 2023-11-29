@@ -3,3 +3,13 @@
 /home/eduardo-matheus-souto/Documentos/Eduardo/residenciatic18_DotNet/Prova_Individual/obj/Debug/net7.0/Prova_Individual.AssemblyInfoInputs.cache
 /home/eduardo-matheus-souto/Documentos/Eduardo/residenciatic18_DotNet/Prova_Individual/obj/Debug/net7.0/Prova_Individual.AssemblyInfo.cs
 /home/eduardo-matheus-souto/Documentos/Eduardo/residenciatic18_DotNet/Prova_Individual/obj/Debug/net7.0/Prova_Individual.csproj.CoreCompileInputs.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/residenciatic18_DotNet/Prova_Individual/bin/Debug/net7.0/Prova_Individual
+/home/eduardo-matheus-souto/Documentos/Eduardo/residenciatic18_DotNet/Prova_Individual/bin/Debug/net7.0/Prova_Individual.deps.json
+/home/eduardo-matheus-souto/Documentos/Eduardo/residenciatic18_DotNet/Prova_Individual/bin/Debug/net7.0/Prova_Individual.runtimeconfig.json
+/home/eduardo-matheus-souto/Documentos/Eduardo/residenciatic18_DotNet/Prova_Individual/bin/Debug/net7.0/Prova_Individual.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/residenciatic18_DotNet/Prova_Individual/bin/Debug/net7.0/Prova_Individual.pdb
+/home/eduardo-matheus-souto/Documentos/Eduardo/residenciatic18_DotNet/Prova_Individual/obj/Debug/net7.0/Prova_Individual.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/residenciatic18_DotNet/Prova_Individual/obj/Debug/net7.0/refint/Prova_Individual.dll
+/home/eduardo-matheus-souto/Documentos/Eduardo/residenciatic18_DotNet/Prova_Individual/obj/Debug/net7.0/Prova_Individual.pdb
+/home/eduardo-matheus-souto/Documentos/Eduardo/residenciatic18_DotNet/Prova_Individual/obj/Debug/net7.0/Prova_Individual.genruntimeconfig.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/residenciatic18_DotNet/Prova_Individual/obj/Debug/net7.0/ref/Prova_Individual.dll
