@@ -8,8 +8,8 @@ public class Paciente : Pessoa
     {
         get { return sexo; }
         set
-        {
-            if (value.ToLower() != "MASCULINO" || value.ToLower() != "feminino")
+        {            
+            if (!value.ToLower().Equals("masculino") && !value.ToLower().Equals("feminino"))
             {
                 throw new ArgumentException("Insira um sexo valido !!!");
             }
