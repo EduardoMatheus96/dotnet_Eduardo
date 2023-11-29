@@ -105,6 +105,7 @@ Relatorio relatorio = new Relatorio(pacientes, medicos);
 relatorio.mostrarMedicosPorIdade(18, 40);
 relatorio.MostrarPacientesPorIdade(18,100);
 relatorio.MostrarPacientesPorGenero("masculino");
+relatorio.MostrarPacientesPorSintoma("febre");
 relatorio.MostrarAniversariantesDoMes(05);
 
 
