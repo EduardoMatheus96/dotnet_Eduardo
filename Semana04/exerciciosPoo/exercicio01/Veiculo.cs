@@ -5,6 +5,9 @@ public class Veiculo
     string ano;
     string cor;
 
+    // Modificação para Exercicio 02
+    public int IdadeVeiculo => DateTime.Now.Year - int.Parse(Ano);
+
     public string Modelo
     {
         get { return modelo; }
