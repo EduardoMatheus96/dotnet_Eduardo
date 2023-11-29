@@ -103,6 +103,9 @@ medico05.adicionarMedico(medico05, medicos);
 Relatorio relatorio = new Relatorio(pacientes, medicos);
 
 relatorio.mostrarMedicosPorIdade(18, 40);
+relatorio.MostrarPacientesPorIdade(18,100);
+relatorio.MostrarPacientesPorGenero("masculino");
+relatorio.MostrarPacientesEmOrdemAlfabetica();
 
 
 
