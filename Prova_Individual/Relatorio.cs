@@ -95,6 +95,7 @@ public class Relatorio
         }
     }
 
+    // Tratar o dado dynamic
     private bool ContemSintoma(dynamic sintomas, string textoSintoma)
     {
         // Convertemos para uma lista de strings (assumindo que seja uma lista de strings)
