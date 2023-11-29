@@ -1,16 +1,46 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace Prova_Individual
+public class Pessoa
 {
-    public class Pessoa
-    {
-        string nome;
-        string dataDeNascimento;
-        string cpf;
+    string nome;
+    string dataDeNascimento;
+    string cpf;
 
-        public Pessoa
+    public string Nome
+    {
+        get { return nome; }
+        set { nome = value; }
+    }
+
+    public string DataDeNascimento
+    {
+        get { return dataDeNascimento; }
+        set
+        {
+            if (DateTime.TryParse(value, out DateTime data) && data.Year > 0 && data.Year < DateTime.Now.Year)
+            {
+                dataDeNascimento = value;
+            }
+            else
+            {
+                throw new ArgumentException("Data inválida");
+            }
+        }
+    }
+
+    public string Cpf
+    {
+        get { return cpf; }
+        set
+        {
+            if (string.IsNullOrEmpty(value))
+            {
+                throw new ArgumentNullException("Insira um cpf valido (11 digitos)");
+            }
+            else if (value.Length != 11)
+            {
+                throw new ArgumentException("Insira um cpf valido (11 digitos)");
+            }
+            else
+                cpf = value;
+        }
     }
 }

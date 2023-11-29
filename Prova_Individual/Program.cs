@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿List<Medico> medicos = new List<Medico>();
+List<Paciente> pacientes = new List<Paciente>();
+

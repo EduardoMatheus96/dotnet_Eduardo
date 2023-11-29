@@ -1,0 +1,5 @@
+/home/eduardo-matheus-souto/Documentos/Eduardo/residenciatic18_DotNet/Prova_Individual/obj/Debug/net7.0/Prova_Individual.csproj.AssemblyReference.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/residenciatic18_DotNet/Prova_Individual/obj/Debug/net7.0/Prova_Individual.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo-matheus-souto/Documentos/Eduardo/residenciatic18_DotNet/Prova_Individual/obj/Debug/net7.0/Prova_Individual.AssemblyInfoInputs.cache
+/home/eduardo-matheus-souto/Documentos/Eduardo/residenciatic18_DotNet/Prova_Individual/obj/Debug/net7.0/Prova_Individual.AssemblyInfo.cs
+/home/eduardo-matheus-souto/Documentos/Eduardo/residenciatic18_DotNet/Prova_Individual/obj/Debug/net7.0/Prova_Individual.csproj.CoreCompileInputs.cache
