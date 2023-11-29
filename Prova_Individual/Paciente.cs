@@ -4,15 +4,6 @@ public class Paciente : Pessoa
     string sexo;
     List<string> sintomas;
 
-    public Paciente(string _nome, string _dataDeNascimento, string _cpf, string sexo, List<string> sintomas)
-    {
-        this.nome = _nome;
-        this.dataDeNascimento = _dataDeNascimento;
-        this.cpf = _cpf;
-        this.sexo = sexo;
-        this.sintomas = sintomas;
-    }
-
     public string Sexo
     {
         get { return sexo; }
@@ -29,17 +20,17 @@ public class Paciente : Pessoa
         }
     }
 
-    public List<string> Sintomas
+    public dynamic Sintomas
     {
         get { return sintomas; }
         set { this.sintomas = value; }
     }
 
     public void adicionarPaciente(Paciente paciente, List<Paciente> pacientes){
-        if (medicos.Any(p => p.Cpf == paciente.Cpf))
+        if (pacientes.Any(p => p.Cpf == paciente.Cpf))
         {
-            throw new ArgumentException("Paciente invalido, CRM ou CPF Ja presente na lista de medicos !!!");
+            throw new ArgumentException("Paciente invalido, CRM ou CPF Ja presente na lista de pacientes !!!");
         }
-        else medicos.Add(medico);
+        else pacientes.Add(paciente);
     }
 }
